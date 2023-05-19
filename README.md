@@ -1,0 +1,1 @@
+#notas de que se trata el programa o como correrloc
